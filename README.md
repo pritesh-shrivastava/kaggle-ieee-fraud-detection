@@ -9,7 +9,9 @@ B. Linear stacking - https://www.kaggle.com/aharless/simple-linear-stacking-lb-9
 
 C. Stacking with a meta model :
   - Create a pipeline of kernels starting from data loading & reducing memory usage
-  - Create a hold out validation set (should we split this by time ?)
+  - Create a hold out validation set 
+    - should we split this by time?
+    - https://www.kaggle.com/kyakovlev/ieee-cv-options
   - Create single models reading the split data and predicting on val & test sets
   - Create a meta model that trains on val preds and predicts on test set
   - [Optional] Blend this output with other kernels (?)
