@@ -1,7 +1,7 @@
 # kaggle-iee-fraud-detection
 Kaggle competition hosted by IEEE-CIS to detect fraud transactions
 
-Strategy :
+Stacking & Blending Strategy :
 
 A. Easiest - Weighted blending of top scoring public kernels - https://www.kaggle.com/priteshshrivastava/ieee-cis-blend
 
