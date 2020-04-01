@@ -1,5 +1,5 @@
 # kaggle-iee-fraud-detection
-This repo includes my Bronze Medal solution (Top 10% finish) to the Kaggle competition hosted by IEEE-CIS to detect fraud transactions.
+This repo includes my Bronze Medal solution (Top 10% finish) to the [Kaggle competition](https://www.kaggle.com/c/ieee-fraud-detection) hosted by IEEE-CIS to detect fraud transactions.
 
 Stacking & Blending Strategy :
 
